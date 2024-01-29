@@ -8,7 +8,7 @@
 
 :computer: I'm focus on become a Game Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Blumenau, Brazil.
 
 :books: I’m currently learning C#, C++ and Unreal Engine.
 
