@@ -25,8 +25,4 @@
 - Enjoy it!! 🎉
 
 <p></p>
-
-<a href="https://github.com/JoaoDGMelo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDGMelo&theme=dark&hide_langs_below=1" />
-</a>
 <p></p>
